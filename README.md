@@ -1,2 +1,3 @@
-# poc-rust-microservice
-A microservice written in Rust
+# POC Rust microservice
+
+A microservice proof of concept written in Rust
