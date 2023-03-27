@@ -1,3 +1,6 @@
 # POC Rust microservice
 
-A microservice proof of concept written in Rust
+:microscope: POC of microservice written in Rust
+
+
+https://medium.com/@diego_pacheco/building-a-microservice-with-rust-957420f196fc
