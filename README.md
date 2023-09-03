@@ -1,6 +1,6 @@
-# POC Rust Microservice
+# PoC Rust Microservice
 
-:microscope: POC of a microservice in Rust
+:microscope: Proof of Concept of a microservice in Rust
 
 [![wakatime](https://wakatime.com/badge/github/GuilhermeStracini/POC-rust-Microservice.svg)](https://wakatime.com/badge/github/GuilhermeStracini/POC-rust-Microservice)
 [![Maintainability](https://api.codeclimate.com/v1/badges/89ec8897c5b1c61b755d/maintainability)](https://codeclimate.com/github/GuilhermeStracini/POC-rust-Microservice/maintainability)
