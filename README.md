@@ -1,4 +1,4 @@
-# PoC Rust Microservice
+# PoC Rust - Microservice
 
 🔬 Proof of Concept of a microservice in Rust
 
